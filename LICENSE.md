@@ -12,4 +12,4 @@ What you cannot do:
 
 What you must do to use this:
 - Include original
-- Disclose source (Or reference author in some form)
+- Disclose source (Or reference author in some form, for example, in hidden NBT tags)
